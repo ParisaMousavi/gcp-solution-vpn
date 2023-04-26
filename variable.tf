@@ -20,7 +20,7 @@ variable "prefix" {
 
 variable "terraform_remote_state_bucket" {
   type    = string
-  default = "terraform-myproje-euc1-dev"
+  default = "parisaiacweu"
 }
 
 variable "project" {
